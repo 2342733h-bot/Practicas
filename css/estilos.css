@@ -1,0 +1,25 @@
+@charset "utf-8";
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #8b1e24;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    max-width: 800px;
+    margin: 15px auto;
+    padding: 20px;
+}
+
+.imagen-redondeada {
+    width: 250px;
+    border-radius: 20px;
+}
+
